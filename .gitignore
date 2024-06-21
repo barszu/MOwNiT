@@ -1,0 +1,8 @@
+*.csv
+.venv
+pomoce
+projekt
+kolos
+egzamin
+*.doc
+*.docx
